@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex_inheritance</string>
+    <string name="singer">가수 추가됨</string>
+    <string name="girl">걸그룹 추가됨</string>
+</resources>

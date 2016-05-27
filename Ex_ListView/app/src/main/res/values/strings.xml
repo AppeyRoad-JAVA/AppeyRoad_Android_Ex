@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex_ListView</string>
+    <string name="singlist">가요 목록</string>
+    <string name="imagedesc">Image</string>
+</resources>
